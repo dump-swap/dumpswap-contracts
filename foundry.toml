@@ -8,3 +8,6 @@ remappings = [
 
 [rpc_endpoints]
 arbitrum = "https://arb1.arbitrum.io/rpc"
+
+[lint]
+exclude_lints = ["unaliased-plain-import"]
